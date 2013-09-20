@@ -1,14 +1,13 @@
-# Django REST framework
+# Django REST framework tutorial by jgarza
 
 **Awesome web-browseable Web APIs.**
 
-[![build-status-image]][travis]
 
 **Note**: Full documentation for the project is available at [http://django-rest-framework.org][docs].
 
 # Overview
 
-Django REST framework is a powerful and flexible toolkit that makes it easy to build Web APIs.
+DRF Tutorial
 
 Some reasons you might want to use REST framework:
 
@@ -22,7 +21,7 @@ There is a live example API for testing purposes, [available here][sandbox].
 
 **Below**: *Screenshot from the browseable API*
 
-![Screenshot][image]
+
 
 # Requirements
 
